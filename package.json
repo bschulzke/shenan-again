@@ -1,0 +1,20 @@
+{
+  "name": "shenan-again",
+  "version": "1.0.0",
+  "description": "The Shenan-Again rulebook, hosted at www.shenan-again.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bschulzke/shenan-again.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bschulzke/shenan-again/issues"
+  },
+  "homepage": "https://github.com/bschulzke/shenan-again#readme"
+}
